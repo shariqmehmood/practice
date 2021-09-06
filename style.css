@@ -1,4 +1,11 @@
-.okok{
-    color: rgb(14, 15, 15);
-    text-align: center;
+.maindiv{
+    background-color: black;
+    color: blanchedalmond;
+     text-align: center;
+     align-items: center;
+
+}
+.babydiv h1{
+    display: inline-block;
+    color: coral;
 }
